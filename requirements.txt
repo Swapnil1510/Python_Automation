@@ -1,0 +1,39 @@
+# core testing framework
+pytest
+pytest-cov
+pytest-mock
+pytest-asyncio
+pytest-cases
+pytest-xdist
+pytest-bdd
+
+# Playwright for browser automation
+playwright
+
+# Test reporting and utilities
+allure-pytest
+pytest-html
+
+# Data handling and assertions
+pydantic
+python-dotenv
+openpyxl
+pandas
+paramiko
+PyPDF2
+
+# HTTP client for API testing
+requests
+
+# gRPC and Protobuf support
+grpcio
+protobuf
+grpcio-tools
+grpcio-reflection
+
+# Database connectors
+psycopg2-binary  # PostgreSQL
+
+# Performance optimization
+pytest-benchmark
+pytest-xdist
