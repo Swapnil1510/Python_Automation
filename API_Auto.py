@@ -5,4 +5,4 @@ print(response.status_code)
 
 if response.status_code == 200:
     print("API is responding successfully!")
-else:    print("API is not responding as expected.")
+else:    print("API is not responding as expected.")  
